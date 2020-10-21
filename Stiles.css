@@ -95,7 +95,7 @@ body{
     height: 50px;
     width: auto;
 }
-.dim-header, {
+.dim-header {
     background-color: #214d6d;
     margin: 2px;
     padding-top: 10px;
