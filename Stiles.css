@@ -1,0 +1,132 @@
+.telo{
+    margin: 0 auto;
+    width: 60%;
+    background-color: white;
+    border: cadetblue 3px ;
+}
+.bacground-image{
+      background-image: url(https://vignette.wikia.nocookie.net/gameofthrones/images/5/50/Wiki-background/revision/latest?cb=20190924191701&path-prefix=ru);
+    background-attachment: fixed;
+    background-position: top;
+    background-position-x: center;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.telo{
+    background-color: #252424;
+    padding: 35px;
+}
+h1, h2, p, ol, ul {
+    color: white;
+    
+}
+.persons{
+    padding: 10px;
+
+    display: inline-block;
+    float: right;
+    border: 2px solid #214d6d;
+
+}
+.vidstup{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.history{
+    padding: 5px;
+    float: left;
+    border:2px solid lavender;
+}
+ol, ul, li{
+    margin-top: 10px;
+}
+a{
+    color: #06CAFF;
+}
+body{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+.kvadrat{
+    background-color: #252424;
+    height: 500px;
+    width: 600px;
+}
+.photo{
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.galery{
+    margin: 0 auto;
+    display: inline-block;
+
+}
+
+.perelik-domiv{
+    margin: 0 auto;
+    display: inline-block;
+    background-color: #070d12;
+    border: 2px solid #214d6d;
+
+}
+.dim, .dim-name, .dim-herb, .dim-deviz, .dim-volodinnia{
+    display: inline-block;
+    margin: 2px;
+
+
+}
+.herb-icon{
+    height: 50px;
+    width: auto;
+}
+.dim-header, {
+    background-color: #214d6d;
+    margin: 2px;
+    padding-top: 10px;
+}
+span {
+    margin-top: 2px;
+}
+.dim-name, .dim-volodinnia {
+    border-right: 1px solid #214d6d;
+    background-position-y: top;  
+    margin-right: 5px;
+}
+.dim-deviz{
+    background-position-y: top;  
+    margin-right: 5px;
+    width: 150px;
+    
+}
+
+.dim{
+    border-bottom: royalblue;
+}
+.dim-name{
+    width: 150px;
+}
+.dim-herb{
+    width: 70px;
+
+    
+}
+.dim-volodinnia{
+    width: 200px;
+
+}
